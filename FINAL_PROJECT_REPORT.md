@@ -123,25 +123,25 @@ docker compose exec web python test_api.py
 ## Screenshot / Bukti Pengujian
 - ![Django Welcome Page](dokumentasi/ssDjangowelcome.png)
 
-- ![Django Admin Panel](doumentasi/djangoAdminn.png)
+- ![Django Admin Panel](dokumentasi/djangoAdminn.png)
 
-- ![dashboardAdmin](doumentasi/dashboardAdmin_demo.png)
+- ![dashboardAdmin](dokumentasi/dashboardAdmin_demo.png)
 
-- ![dashboardSiswa](doumentasi/dashboardSiswa.png)
+- ![dashboardSiswa](dokumentasi/dashboardSiswa.png)
 
-- ![dashboardInstruktur](doumentasi/dashboardIntruktur.png)
+- ![dashboardInstruktur](dokumentasi/dashboardIntruktur.png)
 
 - ![enrollment](dokumentasi/enroll.png)
 
-- ![generate-Certificate](doumentasi/generate.png)
+- ![generate-Certificate](dokumentasi/generate.png)
 
-- ![id-certificate](doumentasi/id.png)
+- ![id-certificate](dokumentasi/id.png)
 
-- ![certificate](doumentasi/buktiCertif.png)
+- ![certificate](dokumentasi/buktiCertif.png)
 
 - ![monitoring-Flower](dokumentasi/monitoringFlower.png)
 
-- ![loginRabbitMQ](ldokumentasi/loginRabbitMQ.png)
+- ![loginRabbitMQ](dokumentasi/loginRabbitMQ.png)
 
 - ![RabbitMQ](dokumentasi/RabbitMQ.png)
 
@@ -149,7 +149,7 @@ docker compose exec web python test_api.py
 
 - ![optimizationQuery](dokumentasi/optimiz.png)
 
-- ![dockerPS](doumentasi/dockerps.png)
+- ![dockerPS](dokumentasi/dockerps.png)
 
 
 ---
