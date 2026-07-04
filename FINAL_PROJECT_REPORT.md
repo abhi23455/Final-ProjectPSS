@@ -4,7 +4,7 @@
 - **Nama**: Abhirama Maulana Putra
 - **NIM**: (A11.2023.15353)
 - **Kelas**: (A11.4618)
-- **URL Repository**: (https://github.com/abhi23455/FINAL_PROJECT_PSS.git)
+- **URL Repository**: (https://github.com/abhi23455/Final-ProjectPSS.git)
 
 ---
 
