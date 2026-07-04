@@ -1,0 +1,33 @@
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "username": "admin",
+      "email": "admin@example.com",
+      "is_staff": true,
+      "is_superuser": true,
+      "role": "admin",
+      "date_joined": "2026-04-23T04:00:00Z"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "username": "instructor1",
+      "email": "instructor1@example.com",
+      "role": "instructor",
+      "date_joined": "2026-04-23T04:00:00Z"
+    }
+  },
+  {
+    "model": "courses.category",
+    "pk": 1,
+    "fields": {
+      "name": "Backend Development",
+      "slug": "backend-development",
+      "parent": null
+    }
+  }
+]

@@ -1,0 +1,4 @@
+name,slug,description,price,instructor_username,category_slug
+Python Dasar,python-dasar,Belajar Python dari nol,50000,instructor1,backend-development
+Django Pro,django-pro,Membangun aplikasi web modern,150000,instructor1,backend-development
+React Native,react-native,Mobile app development,120000,instructor1,backend-development
